@@ -51,7 +51,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
-1. I like the languages features of Python 3, particularly 3.5 and above. e.g. ```{python} f"Variable x is {x}." ``` is much nicer than ```{python} "Variable x is {}".format(x)```, and dict packing is also nice.
+1. I like the languages features of Python 3, particularly 3.5 and above. e.g. ```f"Variable x is {x}." ``` is much nicer than ```"Variable x is {}".format(x)```, and dict unpacking is also nice.
 
 2. Python 2 will no longer be actively developed in a few years, so short of writing for legacy projects, I don't think it is wise to write new projects in Python 3.
 
