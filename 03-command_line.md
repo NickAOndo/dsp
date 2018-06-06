@@ -21,15 +21,25 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > list contents: ls (with -l for information, -a to include hidden, -t to order by most recently updated)
+
 > > move to directory: cd sub_directory (or cd .. to go up the directory tree)
+
 > > current directory: pwd
+
 > > create directory: mkdir new_directory
+
 > > remove directory: rmdir old_directory
+
 > > move file: mv some_space_separated_list_of_files their_new_directory
+
 > > create text file: touch new_file.txt
+
 > > delete file: rm unimportant_file.txt
+
 > > search document for string match: grep file_to_be_searched.txt
+
 > > rename file:  mv old_file_name new_file_name
+
 > > read text file:  cat text_file.txt
 
 ---
